@@ -1,0 +1,5 @@
+fruits = ["apple", "banana", "mango", "cherry", "watermelon"]
+deleted_item=fruits.pop(2)
+
+print(fruits)
+print(deleted_item)
